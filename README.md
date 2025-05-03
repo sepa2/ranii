@@ -6,7 +6,7 @@
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
-      background-color: #c847ff;
+      background-color: #2b00d8;
       display: flex;
       justify-content: center;
       align-items: center;
